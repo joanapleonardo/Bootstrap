@@ -1,0 +1,14 @@
+: root{
+    --vermelho: #E41B15;
+    --branco: #fff;
+    --preto: #000;
+}
+header{
+    background-color: var (--vermelho);
+}
+nav{
+    background-color: var (--vermelho);
+}
+footer{
+    background-color: var (--vermelho);
+}
